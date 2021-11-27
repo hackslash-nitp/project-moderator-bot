@@ -10,7 +10,7 @@ class BaseTokenizer(object):
     def process(self, texts):
         for text in texts:
             yield self.process_text(text)
-
+# Patterns list is inspired by several blogs on sentiment analysis preprocessing of text
 RE_PATTERNS = {
     ' american ':
         [
