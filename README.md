@@ -17,4 +17,8 @@ https://drive.google.com/file/d/1E0os4yYhm-YNocMgISNoXMPuKbB2GgMz/view?usp=shari
 
 ![Image of Model](https://github.com/hackslash-nitp/project-moderator-bot/blob/main/screenshot.png)
 
+P.S :- <ul><li>The __requirements.txt file__ is present in the "deployment scripts" folder of this repo.</li> 
+       <li>We will be happy to see your sugesstions on further addition of new features to the bot.</li>
+       <li>Please create relevant issue in the Issues section.</li></ul>
+<hr color="white">
 Team Gray-Interface :heavy_multiplication_x: HackSlash
